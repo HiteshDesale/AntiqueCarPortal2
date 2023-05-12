@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test thread-count="5" name="TestRailSuite">
+    <classes>
+      <class name="TestClasses3TestRail.User_Enter_Valid_Credentials_To_Login"/>
+      <class name="TestClasses3TestRail.User_Enter_Invalid_Credentials_To_Login"/>
+    </classes>
+  </test> <!-- TestRailSuite -->
+</suite> <!-- Suite -->

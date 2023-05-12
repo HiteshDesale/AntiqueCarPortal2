@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [RegressionSuite28_04_23]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="Test(failed)">
+    <classes>
+      <class name="test.classes.ACCPLoginTest">
+        <methods>
+          <include name="loginToApp"/>
+          <include name="closeBrowser"/>
+          <include name="openBrowser"/>
+          <include name="logoutFromApp"/>
+          <include name="verifyPolicyNumber"/>
+        </methods>
+      </class> <!-- test.classes.ACCPLoginTest -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [RegressionSuite28_04_23] -->

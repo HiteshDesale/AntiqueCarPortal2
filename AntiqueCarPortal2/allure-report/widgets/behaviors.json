@@ -1,0 +1,1 @@
+{"total":8,"items":[{"uid":"604ea04351ee77ef6a2983395d3d013f","name":"Verifying the expected and actual output","statistic":{"failed":1,"broken":0,"skipped":1,"passed":0,"unknown":0,"total":2}},{"uid":"cfe439a8cb5b4e3afb016ca4dfc57392","name":"Login Functionality","statistic":{"failed":0,"broken":0,"skipped":0,"passed":2,"unknown":0,"total":2}}]}
